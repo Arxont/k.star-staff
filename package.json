@@ -12,6 +12,7 @@
     "tailwindcss": "^1.1.2"
   },
   "scripts": {
-    "build:css": "postcss ./src/css/tailwind.css -o src/css/dist/tailwind.css"
+    "build:css": "postcss ./src/css/tailwind.css -o src/css/dist/tailwind.css",
+    "build": "next build"
   }
 }
