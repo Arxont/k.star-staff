@@ -6,7 +6,7 @@
   "author": "Feid <b.evg.ua@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "fullpage.js": "^3.0.7",
+    "fullpage.js": "^4.0.5",
     "rollup": "^1.19.4",
     "rollup-plugin-node-resolve": "^5.2.0",
     "tailwindcss": "^1.1.2"
